@@ -1,0 +1,26 @@
+==A propos de Millénaire==
+
+Le mod Millénaire est copyrighté par Kinniken, excepté pour les parties contribuées par d'autre personnes. Une liste extensive des contributeurs peut être consultée dans le jeu en trouvant le Panthéon, ou directement dans mods/millenaire/hof.txt une fois que le mod a été lancé au moins une fois.
+
+Tous droits réservés.
+
+==Installation de Millénaire==
+
+- Vous devez avoir Forge installé
+- Le jar Millénaire doit aller dans le dossier mods/ habituel.
+
+Depuis Millénaire 6.2.0, il n’est plus nécessaire de copier les dossiers millenaire/ et millenaire-custom/ dans le dossier mods/ ; ils sont auto-extraits du jar.
+ 
+Si vous voulez utiliser les textures HD (64x64), mettez le pack millenaire-hd dans le dossier habituel pour les packs de texture et activez le dans Minecraft.
+
+==Modifier Millénaire==
+
+Le contenu de Millénaire est conçu pour pouvoir être modifié facilement. Tout est dans mods/millenaire/, un dossier auto-extrait au premier démarrage du mod et mis à jour automatiquement quand Millénaire est mis à jour.
+
+Vous pouvez mettre les contenus que vous créez ou téléchargez dans millénaire-custom/ à la place, un dossier généré au premier lancement uniquement.
+
+==Vie privée==
+
+Millénaire envoie par défaut des statistiques anonymes basiques sur votre installation de Millénaire (la version du mod, la langue configurée…). Ceci peut être désactivé dans la configuration du mod définie dans le jeu ou en ajoutant la ligne suivante dans mods/millenaire-custom/config-custom.txt (pour un client) or mods/millenaire-custom/config-server-custom.txt (pour un serveur) :
+
+send_statistics = false

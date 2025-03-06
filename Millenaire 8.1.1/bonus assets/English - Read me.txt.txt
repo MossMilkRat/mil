@@ -1,0 +1,9 @@
+The assets in this directory are standard Minecraft resource packs and can be installed like any other.
+
+== Millénaire HD ==
+
+This resource pack upgrades many of Millénaire's block textures to 64x64 versions in the style of the Soartex textures (https://soartex.net).
+
+== Millénaire Banners & Shields ==
+
+If you use a texture pack that increases the size of banner or shield textures, Millénaire's added patterns will no longer show. You will need to use the provided packs for banners and shields that match your texture pack's sizes. For example, Soartex uses 256x256 banners and 512x512 shields.

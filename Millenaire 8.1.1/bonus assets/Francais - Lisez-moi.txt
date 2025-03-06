@@ -1,0 +1,9 @@
+Les ressources de ce répertoire sont des packs de ressources Minecraft standard et peuvent être installés comme les autres.
+
+== Millénaire HD ==
+
+Ce pack de ressources met à niveau de nombreuses textures de bloc de Millénaire vers des versions 64x64 dans le style des textures Soartex (https://soartex.net).
+
+== Millénaire Banners & Shields ==
+
+Si vous utilisez un pack de textures augmentant la taille des textures de bannière ou de bouclier, les motifs ajoutés par Millénaire ne seront plus visibles. Vous devrez utiliser les packs fournis pour les bannières et les boucliers correspondant à la taille de votre pack de textures. Par exemple, Soartex utilise des bannières 256x256 et des boucliers 512x512.

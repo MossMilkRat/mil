@@ -1,0 +1,26 @@
+==About Millénaire==
+
+The Millénaire mod is copyrighted to Kinniken, except for parts contributed by other people. An extensive list of contributors can be consulted in-game by finding the Panthéon, or directly in mods/millenaire/hof.txt once the mod has run at least once.
+
+All rights reserved.
+
+==Millénaire installation==
+
+- You need to have Forge installed
+- the Millénaire jar goes in the usual mods folder
+
+As of Millénaire 6.2.0, you no longer need to copy the millenaire/ and millenaire-custom/ folders in the mods folder; instead they are automatically extracted from the jar.
+
+If you want to use the 64x64 HD textures, put the millenaire-hd.zip content pack in the usual content pack folder and enable it in Minecraft like any other texture pack.
+
+==Customizing Millénaire==
+
+Millénaire's content is designed to be easy to modify. All of it is in mods/millenaire/, a folder auto-extracted the first time the mod is launched and overwritten automatically when Millénaire is updated.
+
+You can store content you modify or download in millenaire-custom/ instead, which is generated on first launch and then non-modified.
+
+==Privacy policy==
+
+By default, Millénaire reports some basic anonymous data about your Millénaire installation (the version you are running, what language you are in...). This can be disabled either in the in-game settings menu or by adding the following line to mods/millenaire-custom/config-custom.txt (for clients) or mods/millenaire-custom/config-server-custom.txt (for servers):
+
+send_statistics = false
